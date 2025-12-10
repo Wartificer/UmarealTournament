@@ -188,6 +188,7 @@ const cancelEdit = () => {
 
 <style scoped>
 .participant-row {
+  border-top-width: 1px !important;
   padding: 12px 16px;
   transition: background-color 0.2s;
 }

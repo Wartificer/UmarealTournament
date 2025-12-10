@@ -354,6 +354,7 @@ const addParticipantFromImage = async (file) => {
     var(--v-primary-base) 50%, 
     transparent 100%
   );
-  opacity: 0.5;
+  border-color: transparent;
+  margin: 20px !important;
 }
 </style>
